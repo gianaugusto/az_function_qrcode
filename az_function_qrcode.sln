@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "az_function_qrcode", "az_function_qrcode.csproj", "{CC83E476-B3D9-5C22-D1FA-BD254D513205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC83E476-B3D9-5C22-D1FA-BD254D513205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC83E476-B3D9-5C22-D1FA-BD254D513205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC83E476-B3D9-5C22-D1FA-BD254D513205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC83E476-B3D9-5C22-D1FA-BD254D513205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4813E903-1BE1-44BC-8CF2-56D03D88E11D}
+	EndGlobalSection
+EndGlobal
